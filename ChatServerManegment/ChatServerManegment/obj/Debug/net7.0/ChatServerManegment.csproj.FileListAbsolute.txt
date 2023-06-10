@@ -1,0 +1,15 @@
+C:\Users\Usuário\source\repos\ChatServerManegment\ChatServerManegment\bin\Debug\net7.0\ChatServerManegment.exe
+C:\Users\Usuário\source\repos\ChatServerManegment\ChatServerManegment\bin\Debug\net7.0\ChatServerManegment.deps.json
+C:\Users\Usuário\source\repos\ChatServerManegment\ChatServerManegment\bin\Debug\net7.0\ChatServerManegment.runtimeconfig.json
+C:\Users\Usuário\source\repos\ChatServerManegment\ChatServerManegment\bin\Debug\net7.0\ChatServerManegment.dll
+C:\Users\Usuário\source\repos\ChatServerManegment\ChatServerManegment\bin\Debug\net7.0\ChatServerManegment.pdb
+C:\Users\Usuário\source\repos\ChatServerManegment\ChatServerManegment\obj\Debug\net7.0\ChatServerManegment.csproj.AssemblyReference.cache
+C:\Users\Usuário\source\repos\ChatServerManegment\ChatServerManegment\obj\Debug\net7.0\ChatServerManegment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\source\repos\ChatServerManegment\ChatServerManegment\obj\Debug\net7.0\ChatServerManegment.AssemblyInfoInputs.cache
+C:\Users\Usuário\source\repos\ChatServerManegment\ChatServerManegment\obj\Debug\net7.0\ChatServerManegment.AssemblyInfo.cs
+C:\Users\Usuário\source\repos\ChatServerManegment\ChatServerManegment\obj\Debug\net7.0\ChatServerManegment.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\source\repos\ChatServerManegment\ChatServerManegment\obj\Debug\net7.0\ChatServerManegment.dll
+C:\Users\Usuário\source\repos\ChatServerManegment\ChatServerManegment\obj\Debug\net7.0\refint\ChatServerManegment.dll
+C:\Users\Usuário\source\repos\ChatServerManegment\ChatServerManegment\obj\Debug\net7.0\ChatServerManegment.pdb
+C:\Users\Usuário\source\repos\ChatServerManegment\ChatServerManegment\obj\Debug\net7.0\ChatServerManegment.genruntimeconfig.cache
+C:\Users\Usuário\source\repos\ChatServerManegment\ChatServerManegment\obj\Debug\net7.0\ref\ChatServerManegment.dll
