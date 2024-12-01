@@ -9,6 +9,8 @@ Execute o ChatServerManegment primeiro e digite o IP da sua rede.(para ver o IP 
 
 -Para que o chat funcione é preciso que os computadores estejam conectados na mesma rede.
 
+-Para conexões TCP ou P2P o computador de hospedagem deve ter as portas abertas para que a conexão seja bem sucessedida
+
 -O ChatServerManegment deve ser executado em apenas uma maquina, as demais irão apenas conectar.
 
 
